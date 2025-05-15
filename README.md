@@ -1,0 +1,1 @@
+This is a Data Warehouse project and here you can find data transformation files where we insert staging tables through Google BigQuery and we transform them into ready reporting tables that we will later use in order to derive results and insights in Metabase and Tableau. The files use python to modify the contents of the table !!
